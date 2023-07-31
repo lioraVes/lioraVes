@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lioraVes
-- 👀 I’m interested in software development(games,apps,web), AI and more :)
+- 👀 I’m interested in software development (games,apps,web), AI and more :)
 - 🌱 I’m currently a Computer Science student
 - 💞️ I’m looking to collaborate on projects!
 
