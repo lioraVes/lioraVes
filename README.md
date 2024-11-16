@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lioraVes
-- 👀 I’m interested in software development (games,apps,web), AI, ML, image processing and more :)
+- 👀 I’m interested in software development (software, web and apps), AI, ML, image processing and more :)
 - 🌱 I’m currently a Computer Science student at The Hebrew University of Jerusalem.
 - 💞️ I’m looking to collaborate on projects!
 
